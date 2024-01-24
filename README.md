@@ -1,5 +1,9 @@
 <p align="center">
-      <img src="https://i.postimg.cc/pRzQs2VZ/image.png" width="100">
+      <img src="https://i.postimg.cc/pRzQs2VZ/image.png" width="200">
+      
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Version-5.0.0-blue" alt="Game Version">
 </p>
 
 ## Информация
@@ -17,10 +21,19 @@
       <img src="https://i.postimg.cc/tpBRQ6gC/explorer-WQnbu-Iirb7.png" width="500">
 </p>
 
-По умолчанию это: C:\Program Files (x86)\RK Keyboard Software 
+**`По умолчанию`**    C:\Program Files (x86)\RK Keyboard Software 
 
+### Содержание
+- **-** **`Папка DEV`** - соджержит файл адаптированых названий для световых эффектов (они так же содержаться в папке Text).
+- **-** **`Папка Text`** - соджержит файл перевода основной программы + адаптацию на руссий названий эффектов на вкладке именуемой "Режимы подсветки".
+- **-** **`Файл Cfg`** - соджержит перевод названий всех клавиатур, а так же инициализацию русского перевода в программе.
+- **-** **`Папка skins`** - соджержит граффические преобразования программы (они представленны на иллюстрациях ниже).
 
-
-В архиве так же содержаться граффические изменения в дизайне программы на более приятные глазу. 
+<p align="left">
+      <img src="https://i.postimg.cc/QDYR3qQz/lang.png" width="300">
+</p>
+<p align="left">
+      <img src="https://i.postimg.cc/QDYR3qQz/lang.png" width="300">
+</p>
 Если вы не хотите менять граффическую составляющую программы, не заменяйте папку skins.
 Но поверьте, программа правда станет лучше. Вы можете сохранить эту папку и посмотреть.
