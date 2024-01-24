@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.postimg.cc/XnNYJxCS/output-onlinepngtools-2.png" width="400">
+      <img src="https://i.postimg.cc/nn1TKVr9/output-onlinepngtools-2.png" width="500">
       
 </p>
 <p align="center">
