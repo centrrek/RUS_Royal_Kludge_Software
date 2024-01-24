@@ -42,7 +42,7 @@
 
 ## Ссылки
 
-[Разработчик русификатора - Es.Key](https://vk.com/centrrek)
+[Разработчик русификатора](https://vk.com/centrrek)
 
 [Ссылка на официальную программу "RK Keyboards"](http://en.rkgaming.com/download/1/)
 
